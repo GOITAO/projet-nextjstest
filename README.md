@@ -1,2 +1,3 @@
-# projet-nextjstest
+# projet-next
+
 i'm student developer
